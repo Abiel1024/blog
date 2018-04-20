@@ -10,7 +10,7 @@
 
 ### April
 *七八个星天外，两三点雨山前*
-* April 07, 2018 **»** [ES7async函数的用法](https://github.com/abielzhang/blog/issues/9)
+* April 17, 2018 **»** [ES7async函数的用法](https://github.com/abielzhang/blog/issues/9)
 * April 11, 2018 **»** [一道面试题，带你检验基础](https://github.com/abielzhang/blog/issues/8)
 * April 07, 2018 **»** [ES6中的promise对象](https://github.com/abielzhang/blog/issues/7)
 * April 03, 2018 **»** [闭包基础](https://github.com/abielzhang/blog/issues/6)

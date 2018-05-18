@@ -10,7 +10,8 @@
 
 ### May
 *渡泸及五月，将赴云南征*
-* May 16, 2018 **»** [vuex源码分析](https://github.com/Abiel1024/blog/issues/10)
+* May 16, 2018 **»** [vuex源码分析二（了解Store构造函数）](https://github.com/Abiel1024/blog/issues/11)
+* May 16, 2018 **»** [vuex源码分析一（文件结构与组件注入）](https://github.com/Abiel1024/blog/issues/10)
 
 ### April
 *七八个星天外，两三点雨山前*

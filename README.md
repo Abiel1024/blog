@@ -6,11 +6,14 @@
 
 **疏影横斜水清浅，暗香浮动月黄昏。** 
 
+vuex源码接下来再继续整理
+
 ## 2018
 
 ### May
-*渡泸及五月，将赴云南征*
-* May 16, 2018 **»** [vuex源码分析二（了解Store构造函数）](https://github.com/Abiel1024/blog/issues/11)
+*渡泸及五月，将赴云南征* 
+* May 30, 2018 **»** [webstorm配置 eslint - standard规则](https://github.com/Abiel1024/blog/issues/12)
+* May 18, 2018 **»** [vuex源码分析二（了解Store构造函数）](https://github.com/Abiel1024/blog/issues/11)
 * May 16, 2018 **»** [vuex源码分析一（文件结构与组件注入）](https://github.com/Abiel1024/blog/issues/10)
 
 ### April

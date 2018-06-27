@@ -12,6 +12,7 @@ vuex源码接下来再继续整理
 
 ### June
 *千古兴亡多少事？悠悠。不尽长江滚滚流。* 
+* June 27, 2018 **»** [javascript中的this指向](https://github.com/Abiel1024/blog/issues/15)
 * June 01, 2018 **»** [vue-cli3.0 环境变量与模式](https://github.com/Abiel1024/blog/issues/14)
 
 ### May
@@ -23,7 +24,7 @@ vuex源码接下来再继续整理
 ### April
 *七八个星天外，两三点雨山前*
 * April 17, 2018 **»** [ES7async函数的用法](https://github.com/Abiel1024/blog/issues/9)
-* April 11, 2018 **»** [一道面试题，带你检验基础](https://github.com/Abiel1024/blog/issues/8)
+* April 11, 2018 **»** [一道面试题，包含的基础知识](https://github.com/Abiel1024/blog/issues/8)
 * April 07, 2018 **»** [ES6中的promise对象](https://github.com/Abiel1024/blog/issues/7)
 * April 03, 2018 **»** [闭包基础](https://github.com/Abiel1024/blog/issues/6)
 

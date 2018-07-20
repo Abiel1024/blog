@@ -10,6 +10,10 @@ vuex源码接下来再继续整理
 
 ## 2018
 
+### July
+*人皆笑我痴，虽痴亦自适。不痴何所得，痴又何所失。* 
+* June 27, 2018 **»** [call、apply与bind的区别和实现](https://github.com/Abiel1024/blog/issues/16)
+
 ### June
 *千古兴亡多少事？悠悠。不尽长江滚滚流。* 
 * June 27, 2018 **»** [javascript中的this指向](https://github.com/Abiel1024/blog/issues/15)
